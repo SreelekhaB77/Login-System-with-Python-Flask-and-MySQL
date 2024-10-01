@@ -6,7 +6,7 @@
   	-moz-osx-font-smoothing: grayscale;
 }
 body , #auth{
-  	background-color: #435165;
+  	background-color: #d9f9e9;
   	margin: 0;
 }
 .login, .register {
@@ -66,7 +66,7 @@ body , #auth{
   	width: 100%;
   	padding: 15px;
   	margin-top: 20px;
-  	background-color: #3274d6;
+  	background-color: #0a4628;
   	border: 0;
   	cursor: pointer;
   	font-weight: bold;
